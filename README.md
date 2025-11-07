@@ -27,7 +27,7 @@ Designed for learning how to integrate `SpriteKit` scenes inside SwiftUI apps.
 | JUMP | 3 |
 | HURT | 4 |
 
-<video src="Assets/demo.mov" width="400" controls autoplay loop muted></video>
+<video src="螢幕錄影 2025-11-07 晚上9.44.59.mov" width="400" controls autoplay loop muted></video>
 
 > 💡 Tap anywhere on the screen to switch between animations cyclically.
 
