@@ -28,7 +28,7 @@ Designed for learning how to integrate `SpriteKit` scenes inside SwiftUI apps.
 | HURT | 4 |
 
 
-🎬 ![SpriteKit Cat Demo Screenshot](截圖 2025-11-07 晚上9.54.04.png)
+🎬 ![SpriteKit Cat Demo Screenshot](cat_demo_photo.png)
 🎬 [點我觀看 Cat Demo Video](github_2D_cat_demo.mp4)
 
 > 💡 Tap anywhere on the screen to switch between animations cyclically.
