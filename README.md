@@ -69,16 +69,16 @@ struct ContentView: View {
 }
 ```
 
-🧰 Requirements
+## 🧰 Requirements
 	•	macOS 14+
 	•	Xcode 16+
 	•	iOS 17 or newer
 	•	Swift 5.9+
 
-🐙 License
+## 🐙 License
 
 MIT License © 2025 David Chung
 
 ⸻
 
-🧡 Built with SwiftUI & SpriteKit — a fun pixel-art playground for learning 2D animation in Swift.
+## 🧡 Built with SwiftUI & SpriteKit — a fun pixel-art playground for learning 2D animation in Swift.
